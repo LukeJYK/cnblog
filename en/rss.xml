@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Yankai&#39;s Blog</title>
+        <link>https://lukejyk.github.io/myblog/en/</link>
+        <description>Keiyui Kwan&#39;s Blog in English.</description>
+        <generator>Hugo 0.83.1 https://gohugo.io/</generator>
+        
+            <language>en-US</language>
+        
+        
+            <managingEditor>xjtujyk@gmail.com (lukejiang)</managingEditor>
+        
+        
+            <webMaster>xjtujyk@gmail.com (lukejiang)</webMaster>
+        
+        
+            <copyright>The article is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).</copyright>
+        
+        <lastBuildDate>Tue, 06 Jul 2021 17:42:50 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://lukejyk.github.io/myblog/en/rss.xml" />
+        
+        
+    </channel>
+</rss>
