@@ -4,10 +4,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">宁静致远</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-07-06T17:42:50&#43;08:00</updated>
-    <id>https://lukejyk.github.io/myblog/</id>
-    <link rel="alternate" type="text/html" href="https://lukejyk.github.io/myblog/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://lukejyk.github.io/myblog/atom.xml" />
+    <updated>2021-07-06T17:49:14&#43;08:00</updated>
+    <id>https://lukejyk.github.io/blog/</id>
+    <link rel="alternate" type="text/html" href="https://lukejyk.github.io/blog/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://lukejyk.github.io/blog/atom.xml" />
     <author>
             <name>lukejiang</name>
             <uri>https://lukejyk.github.io/</uri>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
         <entry>
             <title type="text">开始了MemE的博客之旅</title>
-            <link rel="alternate" type="text/html" href="https://lukejyk.github.io/myblog/tech/website/blog-begin/" />
-            <id>https://lukejyk.github.io/myblog/tech/website/blog-begin/</id>
+            <link rel="alternate" type="text/html" href="https://lukejyk.github.io/blog/tech/website/blog-begin/" />
+            <id>https://lukejyk.github.io/blog/tech/website/blog-begin/</id>
             <updated>2021-07-06T15:00:01&#43;08:00</updated>
             <published>2021-07-06T15:00:01&#43;08:00</published>
             <author>
@@ -42,13 +42,13 @@
                             
                             
                             
-                                <category scheme="https://lukejyk.github.io/myblog/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF/" term="科学技术" label="科学技术" />
+                                <category scheme="https://lukejyk.github.io/blog/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF/" term="科学技术" label="科学技术" />
                             
                         
                             
                             
                             
-                                <category scheme="https://lukejyk.github.io/myblog/categories/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/" term="建站笔记" label="建站笔记" />
+                                <category scheme="https://lukejyk.github.io/blog/categories/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/" term="建站笔记" label="建站笔记" />
                             
                         
                     
@@ -58,7 +58,7 @@
                             
                             
                             
-                                <category scheme="https://lukejyk.github.io/myblog/tags/%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0/" term="开天辟地" label="开天辟地" />
+                                <category scheme="https://lukejyk.github.io/blog/tags/%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0/" term="开天辟地" label="开天辟地" />
                             
                         
                     
