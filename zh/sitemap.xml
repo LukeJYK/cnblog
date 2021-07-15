@@ -2,345 +2,345 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukejyk.github.io/blog/</loc>
+    <loc>https://lukejyk.github.io/cnblog/</loc>
     <lastmod>2021-07-06T15:00:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lukejyk.github.io/blog/en/"
+                href="https://lukejyk.github.io/cnblog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lukejyk.github.io/blog/"
+                href="https://lukejyk.github.io/cnblog/"
                 />
   </url><url>
-    <loc>https://lukejyk.github.io/blog/categories/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://lukejyk.github.io/cnblog/categories/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-07-06T15:00:01+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0/</loc>
     <lastmod>2021-07-06T15:00:01+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tech/website/blog-begin/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tech/website/blog-begin/</loc>
     <lastmod>2021-07-06T15:00:01+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://lukejyk.github.io/cnblog/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-07-06T15:00:01+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/about/</loc>
+    <loc>https://lukejyk.github.io/cnblog/about/</loc>
     <lastmod>2021-07-06T14:54:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lukejyk.github.io/blog/en/about/"
+                href="https://lukejyk.github.io/cnblog/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lukejyk.github.io/blog/about/"
+                href="https://lukejyk.github.io/cnblog/about/"
                 />
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/chrome/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/chrome/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/gfw/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/gfw/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/git/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/git/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/google/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/google/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/gulp/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/gulp/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/hexo/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/hexo/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/hugo/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/hugo/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/idcard/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/idcard/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/linux/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/linux/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/markdown/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/markdown/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/matlab/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/matlab/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/meme/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/meme/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/minecraft/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/minecraft/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/netlify/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/netlify/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/next/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/next/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/pwa/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/pwa/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/python/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/python/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/quark-n/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/quark-n/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/rfid/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/rfid/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/service-worker/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/service-worker/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/slm/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/slm/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/solidworks/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/solidworks/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/travis-ci/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/travis-ci/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/tronclass/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/tronclass/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/vercel/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/vercel/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/workbox/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/workbox/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/zemax/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/zemax/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/humankind/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/humankind/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/health/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/health/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/fourier-optics/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/fourier-optics/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/photonics/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/photonics/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/hololens/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/hololens/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/geometric-optics/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/geometric-optics/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/categories/</loc>
+    <loc>https://lukejyk.github.io/cnblog/categories/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/creativity/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/creativity/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/tv-series/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/tv-series/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/microcontroller/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/microcontroller/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/game/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/game/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/history/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/history/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/pressure/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/pressure/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/decentralization/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/decentralization/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/friendship/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/friendship/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/introspection/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/introspection/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/roast/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/roast/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/philosophy/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/philosophy/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/memory/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/memory/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/image-processing/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/image-processing/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/space/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/space/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/religion/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/religion/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/family/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/family/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/mini-app/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/mini-app/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/novel/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/novel/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/modeling/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/modeling/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tech/website/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tech/website/</loc>
     <lastmod>2021-07-06T10:04:54+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/archives/</loc>
+    <loc>https://lukejyk.github.io/cnblog/archives/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/wechat/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/wechat/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/microsoft/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/microsoft/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/choice/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/choice/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/typography/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/typography/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/collection/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/collection/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/education/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/education/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/data-processing/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/data-processing/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/machine-learning/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/machine-learning/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/hangzhou/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/hangzhou/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/raspberry-pi/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/raspberry-pi/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/prism/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/prism/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/model/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/model/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/death/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/death/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/kaifeng/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/kaifeng/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/zju/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/zju/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/ocean/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/ocean/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/thu/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/thu/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/crawling-pet/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/crawling-pet/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/love/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/love/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/internet-of-things/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/internet-of-things/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/crime/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/crime/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/ideal/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/ideal/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/electromagnetic-wave/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/electromagnetic-wave/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/white-balance/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/white-balance/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/ceremony/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/ceremony/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/racism/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/racism/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tech/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tech/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/sci-fi/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/sci-fi/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/research/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/research/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/childhood/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/childhood/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/network/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/network/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/security/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/security/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/nature/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/nature/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/dispersion/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/dispersion/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/apple/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/apple/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/design-contest/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/design-contest/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/cyberpunk/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/cyberpunk/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/remote-sensing/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/remote-sensing/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/class-contradiction/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/class-contradiction/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/japan/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/japan/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/youth/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/youth/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/music/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/music/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/magical-realism/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/magical-realism/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/shanghai/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/shanghai/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url><url>
-    <loc>https://lukejyk.github.io/blog/tags/gangster/</loc>
+    <loc>https://lukejyk.github.io/cnblog/tags/gangster/</loc>
     <lastmod>2021-07-06T10:04:53+08:00</lastmod>
   </url>
 </urlset>

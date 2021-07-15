@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>宁静致远</title>
-        <link>https://lukejyk.github.io/blog/</link>
+        <link>https://lukejyk.github.io/cnblog/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.83.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 06 Jul 2021 17:49:14 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 15:50:20 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://lukejyk.github.io/blog/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://lukejyk.github.io/cnblog/rss.xml" />
         
         
             <item>
                 <title>开始了MemE的博客之旅</title>
-                <link>https://lukejyk.github.io/blog/tech/website/blog-begin/</link>
-                <guid isPermaLink="true">https://lukejyk.github.io/blog/tech/website/blog-begin/</guid>
+                <link>https://lukejyk.github.io/cnblog/tech/website/blog-begin/</link>
+                <guid isPermaLink="true">https://lukejyk.github.io/cnblog/tech/website/blog-begin/</guid>
                 <pubDate>Tue, 06 Jul 2021 15:00:01 &#43;0800</pubDate>
                 
                     <author>xjtujyk@gmail.com (lukejiang)</author>
@@ -51,13 +51,13 @@
                                 
                                 
                                 
-                                    <category domain="https://lukejyk.github.io/blog/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF/">科学技术</category>
+                                    <category domain="https://lukejyk.github.io/cnblog/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF/">科学技术</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://lukejyk.github.io/blog/categories/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/">建站笔记</category>
+                                    <category domain="https://lukejyk.github.io/cnblog/categories/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/">建站笔记</category>
                                 
                             
                         
@@ -67,7 +67,7 @@
                                 
                                 
                                 
-                                    <category domain="https://lukejyk.github.io/blog/tags/%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0/">开天辟地</category>
+                                    <category domain="https://lukejyk.github.io/cnblog/tags/%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0/">开天辟地</category>
                                 
                             
                         

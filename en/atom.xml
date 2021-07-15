@@ -4,10 +4,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
     <title type="text">Yankai&#39;s Blog</title>
     <subtitle type="html">Keiyui Kwan&#39;s Blog in English.</subtitle>
-    <updated>2021-07-06T17:49:14&#43;08:00</updated>
-    <id>https://lukejyk.github.io/blog/en/</id>
-    <link rel="alternate" type="text/html" href="https://lukejyk.github.io/blog/en/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://lukejyk.github.io/blog/en/atom.xml" />
+    <updated>2021-07-15T15:50:20&#43;08:00</updated>
+    <id>https://lukejyk.github.io/cnblog/en/</id>
+    <link rel="alternate" type="text/html" href="https://lukejyk.github.io/cnblog/en/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://lukejyk.github.io/cnblog/en/atom.xml" />
     <author>
             <name>lukejiang</name>
             <uri>https://lukejyk.github.io/en/</uri>
