@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukejyk.github.io/cnblog/en/about/</loc>
-    <lastmod>2021-07-06T10:04:53+08:00</lastmod>
+    <loc>/en/about/</loc>
+    <lastmod>2021-07-07T07:55:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lukejyk.github.io/cnblog/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lukejyk.github.io/cnblog/en/about/"
+                href="/en/about/"
                 />
   </url><url>
-    <loc>https://lukejyk.github.io/cnblog/en/</loc>
-    <lastmod>2021-07-06T10:04:53+08:00</lastmod>
+    <loc>/en/</loc>
+    <lastmod>2021-07-07T07:55:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lukejyk.github.io/cnblog/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lukejyk.github.io/cnblog/en/"
+                href="/en/"
                 />
   </url>
 </urlset>

@@ -8,24 +8,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Yankai&#39;s Blog</title>
-        <link>https://lukejyk.github.io/cnblog/en/</link>
-        <description>Keiyui Kwan&#39;s Blog in English.</description>
+        <link>/en/</link>
+        <description>Yankai&#39;s Blog in English.</description>
         <generator>Hugo 0.83.1 https://gohugo.io/</generator>
         
             <language>en-US</language>
         
         
-            <managingEditor>xjtujyk@gmail.com (lukejiang)</managingEditor>
+            <managingEditor>yankai.jiang@northwestern.edu.cn (LukeJiang)</managingEditor>
         
         
-            <webMaster>xjtujyk@gmail.com (lukejiang)</webMaster>
+            <webMaster>yankai.jiang@northwestern.edu.cn (LukeJiang)</webMaster>
         
         
             <copyright>The article is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).</copyright>
         
-        <lastBuildDate>Thu, 15 Jul 2021 15:50:20 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 10:02:09 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://lukejyk.github.io/cnblog/en/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="/en/rss.xml" />
         
         
     </channel>
