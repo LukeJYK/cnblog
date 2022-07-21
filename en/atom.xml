@@ -2,18 +2,18 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
-    <title type="text">Yankai&#39;s Blog</title>
-    <subtitle type="html">Yankai&#39;s Blog in English.</subtitle>
-    <updated>2021-08-04T23:07:16&#43;08:00</updated>
-    <id>/en/</id>
-    <link rel="alternate" type="text/html" href="/en/" />
-    <link rel="self" type="application/atom&#43;xml" href="/en/atom.xml" />
+    <title type="text">Guan Qirui&#39;s Blog</title>
+    <subtitle type="html">Guan Qirui&#39;s Blog in English.</subtitle>
+    <updated>2022-07-21T14:53:12-05:00</updated>
+    <id>https://lukejyk.github.io/en/</id>
+    <link rel="alternate" type="text/html" href="https://lukejyk.github.io/en/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://lukejyk.github.io/en/atom.xml" />
     <author>
-            <name>LukeJiang</name>
-            <uri>en/</uri>
+            <name>Luke Jiang</name>
+            <uri>https://lukejyk.github.io/en/</uri>
             
-                <email>yankai.jiang@northwestern.edu.cn</email>
+                <email>yankai@u.northwestern.edu</email>
             </author>
     <rights>The article is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).</rights>
-    <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
 </feed>
